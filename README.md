@@ -1,5 +1,5 @@
 # Parth Soni
-*An Aspiring Data Scientist | *
+*An Aspiring Data Scientist*
 
 Links:
 
